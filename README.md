@@ -72,4 +72,4 @@ Run: Click "Start Monitoring" and minimize to the system tray.
 Welcome to submit Issues or Pull Requests to improve the diagnostic logic or UI styling!
 欢迎提交 Issue 或 Pull Request，共同优化诊断逻辑或界面样式！
 
-Developed with ❤️ by GGQ.
+Developed with ❤️ by smaidxing.
