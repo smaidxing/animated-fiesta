@@ -1,4 +1,4 @@
-🚀 YAML Connection Monitor (GGQ-Toolbox)
+🚀 YAML Connection Monitor (smaidxing-Toolbox)
 A high-fidelity, intelligent network status monitoring tool designed for Windows power users.
 一款专为 Windows 极客设计的智能网络连接监测与故障诊断助手。
 
